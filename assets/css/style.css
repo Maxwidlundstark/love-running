@@ -23,6 +23,10 @@ body {
 /* header */
 header {
     background-color: lightcoral;
+
+}
+h1 {
+    font-family: 'oswold', sans-serif;
 }
 /* Main content */
 main {
